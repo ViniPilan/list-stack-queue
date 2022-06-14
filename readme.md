@@ -2,6 +2,11 @@
 from ed_implementation import *
 ```
 
+## Dinamic List, Queue and Stack implementation
+
+All code is stored in *ed_implementation.py*.
+
+
 ### List example
 
 The list functions avaible are:
